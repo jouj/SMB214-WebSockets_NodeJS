@@ -1,4 +1,4 @@
-/*  --------- Fichier Configuration utiliser pout 'frontend.js' et 'chat-server' ----------
+/*  --------- Fichier Configuration utiliser par 'frontend.js' et 'chat-server' ----------
 *	Host pour l'address du serveur 
 *	Port pour le port TCP utiliser
 */
